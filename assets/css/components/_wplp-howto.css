@@ -1,0 +1,6 @@
+.wplp-howto .label-block {
+  display: block;
+  margin-bottom: 5px; }
+
+.wplp-howto input[type=text] {
+  min-width: 400px; }
